@@ -1,0 +1,27 @@
+[submodule "direct"]
+	path = direct
+	url = https://github.com/toonisland/DIRECT.git
+[submodule "dmodels"]
+	path = dmodels
+	url = https://github.com/toonisland/DMODELS.git
+[submodule "dtool"]
+	path = dtool
+	url = https://github.com/toonisland/DTOOL.git
+[submodule "otp"]
+	path = otp
+	url = https://github.com/toonisland/OTP.git
+[submodule "toontown"]
+	path = toontown
+	url = https://github.com/toonisland/TOONTOWN.git
+[submodule "ttmodels"]
+	path = ttmodels
+	url = https://github.com/toonisland/TTMODELS.git
+[submodule "panda"]
+	path = panda
+	url = https://github.com/toonisland/PANDA.git
+[submodule "pandatool"]
+	path = pandatool
+	url = https://github.com/toonisland/PANDATOOL.git
+[submodule "ppremake"]
+	path = ppremake
+	url = https://github.com/toonisland/PPREMAKE.git
